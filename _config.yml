@@ -1,11 +1,11 @@
 # Site settings
 title: Mind Blow Data
 description: "Scientific Blog Page for Understanding Universe Data"
-url: "https://mindblowdata.com"
+url: "http://mindblowdata.com"
 
 
 # Secondary Parameters
-baseurl: ""
+baseurl: "mindblowdata.com"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /my_blog_code/img/logos/Project-Pages-New-Logo-Inverted.png
